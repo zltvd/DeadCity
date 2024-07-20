@@ -1,0 +1,5 @@
+<messages uid="8">
+  <message uid="1" name="Роберт">Чего слоняешься без дела?<answers><answer auid="2" muid="3" action="none">Я справился с заданием Криса</answer></answers></message>
+  <message uid="3" name="Роберт">Думаешь, раз убил парочку тварей, то мне тебе в объятия кинуться?<answers><answer auid="4" muid="6" action="none">Это уже лишнее</answer><answer auid="5" muid="6" action="none">Было бы неплохо</answer></answers></message>
+  <message uid="6" name="Роберт">Черт с тобой, оставайся с нами, но учти – одна ошибка и я вышвырну тебя отсюда.<answers><answer auid="8" muid="-1" action="end 1st qst">Понял</answer></answers></message>
+</messages>

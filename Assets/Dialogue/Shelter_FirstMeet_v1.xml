@@ -1,0 +1,8 @@
+<messages uid="16">
+  <message uid="1" name=" ">Кажется, пройти не получится.<answers><answer auid="2" muid="4" action="none">(Постучать)</answer><answer auid="3" muid="4" action="none">Эй! Есть здесь кто-нибудь?</answer></answers></message>
+  <message uid="4" name=" ">Тишина…<answers><answer auid="5" muid="7" action="none">(Постучать сильнее)</answer><answer auid="6" muid="7" action="none">Меня кто-нибудь вообще слышит?</answer></answers></message>
+  <message uid="7" name="???">Не мог бы ты перестать? Хочешь, чтобы сюда сбежались все эти твари?!<answers><answer auid="8" muid="10" action="none">(Остановиться)</answer></answers></message>
+  <message uid="10" name="???">Уходи отсюда. Тебе тут делать нечего.<answers><answer auid="11" muid="13" action="none">Меня сюда направила Лидия</answer><answer auid="12" muid="14" action="none">Живо открывай!</answer></answers></message>
+  <message uid="13" name="???">Лидия? Черт, тогда заходи быстрей. <answers><answer auid="16" muid="-1" action="shelter">(Зайти в убежище)</answer></answers></message>
+  <message uid="14" name="???">Иди отсюда, еще не хватало остальным наткнуться на зомбака прямо здесь.<answers><answer auid="15" muid="13" action="none">Меня сюда направила Лидия</answer></answers></message>
+</messages>

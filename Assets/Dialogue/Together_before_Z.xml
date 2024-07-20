@@ -1,0 +1,20 @@
+<messages uid="37">
+  <message uid="1" name="Крис">Ты вернулся! Отлично, как раз вовремя. <answers><answer auid="19" muid="2" action="none">Как там Стив и Джесс?</answer><answer auid="20" muid="4" action="none">Лидия, ты тоже здесь!</answer></answers></message>
+  <message uid="2" name="Роберт">Мы подлатали Стива, он сейчас отдыхает на 2 этаже, а Джесс, как видишь, держится молодцом, уже рвется в бой.<answers><answer auid="25" muid="3" action="none">...</answer></answers></message>
+  <message uid="3" name="Джесс">Я правда в порядке и могу пойти с вами<answers><answer auid="21" muid="6" action="none">Куда пойти? На того огромного зомбака?</answer></answers></message>
+  <message uid="4" name="Лидия">Конечно здесь, это ведь я тебя сюда отправила. А сейчас мы встанем плечом к плечу против этого чудища.<answers><answer auid="26" muid="5" action="none">...</answer></answers></message>
+  <message uid="5" name="Крис">Лидия, мы ведь уже обсудили это, вы с Джесс останетесь присмотреть за Стивом.<answers><answer auid="22" muid="6" action="none">Куда пойти? На того огромного зомбака?</answer></answers></message>
+  <message uid="6" name="Крис">Да, ты прав. Пока мы шли обратно до убежища мы снова видели его. К счастью, он нас не увидел. Эта громадина совсем рядом с нами, сторожит мост. Даже при желании игнорировать его не получится, как и впрочем покинуть этот город.<answers><answer auid="27" muid="7" action="none">...</answer></answers></message>
+  <message uid="7" name="Роберт">Выдвигаться надо уже сейчас, пойдем втроем: я, ты и Крис.<answers><answer auid="28" muid="8" action="none">...</answer></answers></message>
+  <message uid="8" name="Лидия">Эй, я же сказала, что тоже пойду.<answers><answer auid="29" muid="9" action="none">...</answer></answers></message>
+  <message uid="9" name="Крис">Хватит, мы все решили. Джесс, ты только вернулась с прошлой стычки, поешь и выспись. А ты, Лидия, не спала больше 40 часов и правда думаешь, что я разрешу пойти с нами? Мы справимся втроем, тем более Роберт уже все придумал.<answers><answer auid="30" muid="10" action="none">...</answer></answers></message>
+  <message uid="10" name="Роберт">Кстати да! Я достал побольше гранат и патронов, разделим между собой.<answers><answer auid="31" muid="11" action="none">...</answer></answers></message>
+  <message uid="11" name="Крис">Новобранец, перед тем как отправляться, убедись что усовершенствовал свое оружие с Робертом, тебе это очень поможет. <answers><answer auid="23" muid="12" action="none">Мы что, уже выдвигаемся?</answer></answers></message>
+  <message uid="12" name="Роберт">Не прямо сейчас, но да, в течение часа. Джесс, Лидия, хватит сидеть с обиженными лицами.<answers><answer auid="32" muid="13" action="none">...</answer></answers></message>
+  <message uid="13" name="Джесс">А чему нам радоваться? Оставляете нас в доме, а сами идете в бой…<answers><answer auid="33" muid="14" action="none">...</answer></answers></message>
+  <message uid="14" name="Крис">Тебе напомнить, как новобранец без практического опыта раскидал всех тех, кого вы со Стивом не смогли вдвоем? <answers><answer auid="34" muid="15" action="none">...</answer></answers></message>
+  <message uid="15" name="Лидия">Джесс, наверное, они правы. Если дело запахнет жаренным мы придем к ним, а пока лучше набраться сил.<answers><answer auid="35" muid="16" action="none">...</answer></answers></message>
+  <message uid="16" name="Джесс">Агх, ладно, останусь тут, как раз хотела почистить свое оружие…<answers><answer auid="36" muid="17" action="none">...</answer></answers></message>
+  <message uid="17" name="Роберт">Вот и договорились! Малец, пошли посмотрим, что можно сделать с твоим ружьем. Кстати, держи сразу твою часть патронов и гранаты.<answers><answer auid="37" muid="18" action="none">...</answer></answers></message>
+  <message uid="18" name="Крис">Как закончите, выходи на улицу, мы сразу за тобой. <answers><answer auid="24" muid="-1" action="dialogue end">Понял</answer></answers></message>
+</messages>
