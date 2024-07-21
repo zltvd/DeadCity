@@ -1,0 +1,3 @@
+<messages uid="2">
+  <message uid="1" name="Роберт">Иди первым на улицу, мы догоним.<answers><answer auid="2" muid="-1" action="none">(Уйти)</answer></answers></message>
+</messages>
