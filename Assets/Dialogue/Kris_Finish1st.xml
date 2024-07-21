@@ -1,4 +1,0 @@
-<messages uid="5">
-  <message uid="1" name="Крис">Неплохо, очень даже неплохо! Думаю, теперь у Роберта не останется сомнений в твоей полезности.  <answers><answer auid="2" muid="4" action="none">Спасибо</answer><answer auid="3" muid="4" action="none">Знаю, я хорош</answer></answers></message>
-  <message uid="4" name="Крис">Сходи поговори с Робертом, а потом возвращайся ко мне. Есть у меня одно дельце, в котором ты бы очень пригодился<answers><answer auid="5" muid="-1" action="dialogue end">(Уйти)</answer></answers></message>
-</messages>

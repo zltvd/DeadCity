@@ -1,3 +1,0 @@
-<messages uid="3">
-  <message uid="1" name=" ">Войти в убежище?<answers><answer auid="2" muid="-1" action="shelter">(Войти в убежище)</answer><answer auid="3" muid="-1" action="dialogue end">(Уйти)</answer></answers></message>
-</messages>

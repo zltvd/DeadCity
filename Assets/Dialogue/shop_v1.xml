@@ -1,3 +1,0 @@
-<messages uid="4">
-  <message uid="1" name="Роберт">Что нужно?<answers><answer auid="2" muid="-1" action="add coins">Добавь деньжат</answer><answer auid="4" muid="-1" action="open shop">Чем торгуешь?</answer></answers></message>
-</messages>

@@ -1,8 +1,0 @@
-<messages uid="13">
-  <message uid="1" name="Крис">Отсюда слышен его рев, нужно быть тише, чтобы не привлечь внимание раньше времени.<answers><answer auid="7" muid="2" action="none">...</answer></answers></message>
-  <message uid="2" name="Роберт">Новенький, перед выходом я закинул к тебе пачку патронов и парочку гранат, как и договаривались. <answers><answer auid="8" muid="3" action="none">Понял, спасибо</answer></answers></message>
-  <message uid="3" name="Крис">Со здоровяком нужно быть осторожным – бьет он больно, хоть и гораздо медленнее обычных зомби. Учти, когда атакуем его, очень важно не уходить далеко отсюда и не давать уйти ему. Иначе сюда сбегутся куча зомби, будет только хуже.<answers><answer auid="9" muid="4" action="none">...</answer></answers></message>
-  <message uid="4" name="Роберт">Наверное нет смысла больше оттягивать знакомство с новым другом, да?<answers><answer auid="10" muid="5" action="none">...</answer></answers></message>
-  <message uid="5" name="Крис">Ты прав, нужно идти. Готовы?<answers><answer auid="11" muid="6" action="none">...</answer></answers></message>
-  <message uid="6" name="Роберт">Обижаешь, конечно.<answers><answer auid="12" muid="-1" action="dialogue end">Всегда готов</answer><answer auid="13" muid="-1" action="dialogue end">Нет</answer></answers></message>
-</messages>

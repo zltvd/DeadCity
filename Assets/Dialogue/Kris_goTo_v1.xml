@@ -1,7 +1,0 @@
-<messages uid="13">
-  <message uid="1" name="Крис">Надеюсь, что ты уже поболтал с Робертом. Слушай, помнишь я говорил про одно дельце? Будем считать, что это твое первое полноценное задание как члена команды.<answers><answer auid="2" muid="3" action="none">…</answer></answers></message>
-  <message uid="3" name="Крис">С нами в команде еще есть Джесс и Стив. Они пошли зачистить улицу недалеко от нас, но все еще не вернулись, хотя пора бы уже. <answers><answer auid="4" muid="6" action="none">Нужна моя помощь?</answer><answer auid="5" muid="7" action="none">Это не мои проблемы</answer></answers></message>
-  <message uid="6" name="Крис">Именно! Нужно проверить как они там и помочь по необходимости. Идем?<answers><answer auid="10" muid="-1" action="tp to 2nd">Да, пошли</answer><answer auid="11" muid="8" action="none">Мне нужно закончить кое-какие дела</answer></answers></message>
-  <message uid="7" name="Крис">Еще как твои, если хочешь оставаться здесь. Мы своих не бросаем, учти. Нужно проверить как они там и помочь по необходимости. Идем?<answers><answer auid="12" muid="-1" action="tp to 2nd">Да, пошли</answer><answer auid="13" muid="8" action="none">Мне нужно закончить кое-какие дела</answer></answers></message>
-  <message uid="8" name="Крис">Хорошо, отмечу на твоей карте куда идти, буду ждать на месте.<answers><answer auid="9" muid="-1" action="go to 2nd">Понял</answer></answers></message>
-</messages>

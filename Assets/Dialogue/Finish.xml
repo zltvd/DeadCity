@@ -1,8 +1,0 @@
-<messages uid="12">
-  <message uid="1" name="Крис">Новобранец! Ты просто что-то с чем-то! <answers><answer auid="7" muid="2" action="none">Вы тоже помогли</answer></answers></message>
-  <message uid="2" name="Роберт">Не скромничай, мы даже не поспевали за тобой, расправился в одного. Как узнают о твоих успехах во Фларке, так будут относиться с уважением, давать задания потруднее.<answers><answer auid="8" muid="3" action="none">Думаешь?</answer></answers></message>
-  <message uid="3" name="Роберт">Конечно! Думаю каждый из нас расскажет руководству о том, как ты нам помог. Пойдешь с нами?<answers><answer auid="9" muid="4" action="none">А можно?</answer></answers></message>
-  <message uid="4" name="Крис">Конечно, мы будем очень рады твоей компании. Не знаю, сможет ли в следущий город с нами отправиться Джес и Стив, но мы с Лидией, как и всегда, пойдем вместе. Уверен, каждый из нас будет рад работать с тобой и дальше.<answers><answer auid="10" muid="5" action="none">Куда мы отправимся?</answer></answers></message>
-  <message uid="5" name="Роберт">Сначала нужно закончить с делами здесь, подчистить мелких зомби. Как Стив станет чувствовать себя лучше, так и отправимся во Фларк, а там уже куда определят.<answers><answer auid="11" muid="6" action="none">Получается, мы теперь команда?</answer></answers></message>
-  <message uid="6" name="Крис">Мне кажется мы стали ей сразу, как встретились. <answers><answer auid="12" muid="-1" action="dialogue end">Ты прав!</answer></answers></message>
-</messages>

@@ -1,3 +1,0 @@
-<messages uid="2">
-  <message uid="1" name="Крис">Я буду ждать тебя на месте, встретимся там<answers><answer auid="2" muid="-1" action="go to 2nd">(Уйти)</answer></answers></message>
-</messages>
